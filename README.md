@@ -1,1 +1,1 @@
-##STM32 StdPeriphLib (SPL) snapshot
+## STM32 StdPeriphLib (SPL) snapshot
